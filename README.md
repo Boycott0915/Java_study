@@ -1,4 +1,5 @@
-# Java_study
-关于java的学习笔记
+# Java_daily_study
 
-首先传送的是第14章的内容学习
+11.21
+
+学习了关于git github 以及如何集成于idea
